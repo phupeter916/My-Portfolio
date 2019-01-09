@@ -156,6 +156,15 @@ p {
     #section-b li {
         width: 31%;
     }
+
+    #section-c ul {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #section-c li {
+        width: 50%; 
+    }
 }
 
 /* Image Animation */
